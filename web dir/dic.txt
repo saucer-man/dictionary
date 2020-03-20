@@ -85,6 +85,9 @@
 .empty-folder
 .env
 .env.php
+webpage/system/druid/websession.html
+system/druid/websession.html
+druid/websession.html
 .env.sample.php
 .environment
 .error_log

@@ -53,6 +53,9 @@
 /.checkstyle
 /.classpath
 /.cobalt
+/webpage/system/druid/websession.html
+/system/druid/websession.html
+/druid/websession.html
 /.codeintel
 /.codio
 /.compile
