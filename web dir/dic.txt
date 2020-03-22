@@ -2475,6 +2475,9 @@ config.ini.bak
 config.ini.old
 config.ini.txt
 config.json
+config.js
+configs.js
+configs.json
 config.json.cfm
 config.local
 config.old

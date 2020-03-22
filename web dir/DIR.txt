@@ -62,6 +62,8 @@
 /.composer
 /.conf
 /.config
+/configs.js
+/configs.json
 /.config.php.swp
 /.config/filezilla/sitemanager.xml.xml
 /.configuration.php.swp
